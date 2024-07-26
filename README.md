@@ -24,3 +24,7 @@ For notifications and cache.ped. By default, this is set up to be standalone. Ju
 4. Uh, what's rpemotes reborn?
 
 [A free to use emote menu for FiveM](https://github.com/alberttheprince/rpemotes-reborn/).
+
+5. Who made this resource?
+
+This was originally made by [Demi/Sleepless-development](https://github.com/Sleepless-Development) for [Popcorn Roleplay](https://discord.gg/popcornroleplay). Click the links to check out both!
