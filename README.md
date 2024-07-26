@@ -6,6 +6,7 @@
 Punish your players for using certain walk styles! A resource made to "punish" players who use certain rpemotes-reborn walk styles to gain a competitive advantage in servers where walk styles that give players more speed can be considered abusable.
 
 Dependencies:
+- [rpemotes-reborn](https://github.com/alberttheprince/rpemotes-reborn/)
 - ox_lib (**optional** for performance and notifications)
 
 **FAQ:**
