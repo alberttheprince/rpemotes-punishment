@@ -14,7 +14,6 @@ local trippingWalkstyles = {
     ["move_m@hurry@a"]= true,
     ["move_f@hurry@a"]= true,
     ["move_f@hurry@b"]= true,
-    ["move_characters@jimmy@nervous@"]= true,
 }
 
 local function isUsingCheeseWalk()
