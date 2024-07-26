@@ -7,7 +7,7 @@ Punish your players for using certain walk styles! A resource made to "punish" p
 
 Dependencies:
 - [rpemotes-reborn](https://github.com/alberttheprince/rpemotes-reborn/)
-- ox_lib (**optional** for performance and notifications)
+- [ox_lib](https://github.com/overextended/ox_lib/) (**optional** for performance and notifications)
 
 **FAQ:**
 1. Why is this seperate from rpemotes-reborn?
