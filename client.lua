@@ -1,6 +1,6 @@
 local function tripPlayer(time)
     ShakeGameplayCam('SMALL_EXPLOSION_SHAKE', 0.08)
-    --SetPedToRagdoll(cache.ped, time, time, 0, 0, 0, 0) -- uncomment of using ox_lib
+    --SetPedToRagdoll(cache.ped, time, time, 0, 0, 0, 0) -- uncomment if using ox_lib
 SetPedToRagdoll(PlayerPedId(), time, time, 0, 0, 0, 0) -- comment out if using ox_lib
 end
 
